@@ -1,6 +1,6 @@
 {
     "name": "mautic/core",
-    "license": "GPL-3.0",
+    "license": "GPL-4.0",
     "type": "mautic-core",
     "description": "Mautic Open Source Distribution",
     "autoload": {
@@ -15,7 +15,7 @@
         ]
     },
     "require": {
-        "php": ">=7.2.21 <7.5",
+        "php": ">=7.4.13 <7.5",
         "ext-zlib": "^7.2",
         "ext-zip": "^1.15",
         "symfony/console": "~3.4.0",
